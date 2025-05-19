@@ -45,7 +45,7 @@ Pixels follow as raw RGB triplets.
    pip install -r requirements.txt
 
    
-▶️ Usage
+##▶️ Usage
 1. Run with:
 
    ```bash
@@ -56,7 +56,7 @@ Pixels follow as raw RGB triplets.
 Select any file to open and view it.
 
 
-🧩 Project Structure
+##🧩 Project Structure
 
     adipix/
     ├── captures/           # Folder to store your .adipix image files
@@ -67,10 +67,10 @@ Select any file to open and view it.
     ├── requirements.txt    # Python dependencies
     └── README.md           # You are here!
 
-📄 License
+##📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-💬 Contact
+##💬 Contact
 Created by Aditya Raj - adityaraj94505@gmail.com <br>
 GitHub: [https://github.com/yourusername](https://github.com/devadityaraj) <br>
 LinkedIN: [https://www.linkedin.com/in/devadityaraj/](https://www.linkedin.com/in/devadityaraj) <br>
