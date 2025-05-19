@@ -1,18 +1,13 @@
-# 🖼️ ADIPIX Image Viewer
+# 🖼️ ADIPIX - All New Image Format
 
-**A modern, lightweight GUI application to view `.adipix` — a custom raw RGB image format.**
+**Bored with JPG, PNG? Try: `adipix` — a custom raw RGB image format.**
 
 ---
 
 ## 🚀 About
 
-ADIPIX Image Viewer lets you easily browse and view images saved in the custom `.adipix` format. It features:
-
-- Smooth, native Tkinter GUI with a dark, stylish theme  
-- Automatic file listing from a `captures/` directory  
-- Dynamic image resizing to fit screen resolution without distortion  
-- Simple, intuitive interface optimized for ease of use  
-- Cross-platform support (Windows, macOS, Linux)
+ADIPIX is a new Image Format that stores RAW RGB Values as `.adipix` format.
+This repo contains python code in order to create, capture, convert existing jpg/png files into adipix format.
 
 ---
 
@@ -30,17 +25,6 @@ Pixels follow as raw RGB triplets.
 
 ---
 
-## 🎯 Features
-
-- **Browse all `.adipix` files** in the `captures/` folder  
-- **Click to view** any image in a separate window  
-- **Smart scaling**: if image resolution exceeds screen size, it scales down proportionally  
-- **Clean UI**: dark mode with crisp typography and colors  
-- **Error handling** for corrupted or invalid files  
-- Portable and minimal dependencies (Python + Pillow + Tkinter)
-
----
-
 ## 🛠️ Installation
 
 1. Clone the repository:
@@ -48,60 +32,48 @@ Pixels follow as raw RGB triplets.
    ```bash
    git clone https://github.com/yourusername/adipix-viewer.git
    cd adipix-viewer
-(Optional) Create and activate a virtual environment:
+   
+2. (Optional) Create and activate a virtual environment:
 
-bash
-Copy
-Edit
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+   
 ▶️ Usage
-Run the viewer with:
+1. Run with:
 
-bash
-Copy
-Edit
-python main.py
-The app will scan the captures/ folder for .adipix files and display them in a list.
+   ```bash
+   python main.py
+
+2. The app will open GUI interface to Directly Capture in adipix via camera or covert existing files (jpg/png) or view the adipix files.
 
 Select any file to open and view it.
 
-Images larger than your screen will automatically resize to fit.
 
 🧩 Project Structure
-bash
-Copy
-Edit
-adipix-viewer/
-├── captures/           # Folder to store your .adipix image files
-├── main.py             # Main app file - launches the GUI
-├── viewer.py           # Image loading & viewing logic
-├── requirements.txt    # Python dependencies
-└── README.md           # You are here!
-⚙️ How to Create .adipix Files
-You can create .adipix images from PNG or JPG using the custom converter (see converter.py):
 
-Reads an image
-
-Converts to raw RGB with the ADPX header
-
-Saves as .adipix
-
-👥 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check issues page.
+    ```bash
+    adipix/
+    ├── captures/           # Folder to store your .adipix image files
+    ├── converter.py        # Converts images to .adipix image file
+    ├── camera.py           # Directly Captures image in .adipix format
+    ├── main.py             # Main app file - launches the GUI
+    ├── viewer.py           # Image loading & viewing logic
+    ├── requirements.txt    # Python dependencies
+    └── README.md           # You are here!
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
 💬 Contact
-Created by Your Name - your.email@example.com
-GitHub: https://github.com/yourusername
+Created by Aditya Raj - adityaraj94505@gmail.com
+GitHub: [https://github.com/yourusername](https://github.com/devadityaraj)
+LinkedIN: [https://www.linkedin.com/in/devadityaraj/](https://www.linkedin.com/in/devadityaraj)
 
 ✨ Thank you for checking out ADIPIX Image Viewer! Enjoy your pixel-perfect experience. ✨
