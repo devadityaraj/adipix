@@ -44,7 +44,8 @@ Pixels follow as raw RGB triplets.
    ```bash
    pip install -r requirements.txt
 
-   
+---
+
 ##▶️ Usage
 1. Run with:
 
@@ -55,6 +56,7 @@ Pixels follow as raw RGB triplets.
 
 Select any file to open and view it.
 
+---
 
 ##🧩 Project Structure
 
@@ -67,8 +69,12 @@ Select any file to open and view it.
     ├── requirements.txt    # Python dependencies
     └── README.md           # You are here!
 
+---
+
 ##📄 License
 Distributed under the MIT License. See LICENSE for more information.
+
+---
 
 ##💬 Contact
 Created by Aditya Raj - adityaraj94505@gmail.com <br>
