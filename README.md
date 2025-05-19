@@ -47,6 +47,7 @@ Pixels follow as raw RGB triplets.
 ---
 
 ##▶️ Usage
+
 1. Run with:
 
    ```bash
@@ -60,6 +61,7 @@ Select any file to open and view it.
 
 ##🧩 Project Structure
 
+
     adipix/
     ├── captures/           # Folder to store your .adipix image files
     ├── converter.py        # Converts images to .adipix image file
@@ -72,6 +74,7 @@ Select any file to open and view it.
 ---
 
 ##📄 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
 ---
