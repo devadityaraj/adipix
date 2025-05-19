@@ -46,7 +46,7 @@ Pixels follow as raw RGB triplets.
 
 ---
 
-##▶️ Usage
+## ▶️ Usage
 
 1. Run with:
 
@@ -59,7 +59,7 @@ Select any file to open and view it.
 
 ---
 
-##🧩 Project Structure
+## 🧩 Project Structure
 
 
     adipix/
@@ -73,13 +73,13 @@ Select any file to open and view it.
 
 ---
 
-##📄 License
+## 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
 
 ---
 
-##💬 Contact
+## 💬 Contact
 Created by Aditya Raj - adityaraj94505@gmail.com <br>
 GitHub: [https://github.com/yourusername](https://github.com/devadityaraj) <br>
 LinkedIN: [https://www.linkedin.com/in/devadityaraj/](https://www.linkedin.com/in/devadityaraj) <br>
