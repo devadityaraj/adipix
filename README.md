@@ -58,7 +58,6 @@ Select any file to open and view it.
 
 🧩 Project Structure
 
-    ```bash
     adipix/
     ├── captures/           # Folder to store your .adipix image files
     ├── converter.py        # Converts images to .adipix image file
@@ -72,8 +71,8 @@ Select any file to open and view it.
 Distributed under the MIT License. See LICENSE for more information.
 
 💬 Contact
-Created by Aditya Raj - adityaraj94505@gmail.com
-GitHub: [https://github.com/yourusername](https://github.com/devadityaraj)
-LinkedIN: [https://www.linkedin.com/in/devadityaraj/](https://www.linkedin.com/in/devadityaraj)
+Created by Aditya Raj - adityaraj94505@gmail.com <br>
+GitHub: [https://github.com/yourusername](https://github.com/devadityaraj) <br>
+LinkedIN: [https://www.linkedin.com/in/devadityaraj/](https://www.linkedin.com/in/devadityaraj) <br>
 
 ✨ Thank you for checking out ADIPIX Image Viewer! Enjoy your pixel-perfect experience. ✨
