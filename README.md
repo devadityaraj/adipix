@@ -30,8 +30,8 @@ Pixels follow as raw RGB triplets.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/adipix-viewer.git
-   cd adipix-viewer
+   git clone https://github.com/devadityaraj/adipix.git
+   cd adipix
    
 2. (Optional) Create and activate a virtual environment:
 
@@ -80,8 +80,9 @@ Distributed under the MIT License. See LICENSE for more information.
 ---
 
 ## 💬 Contact
-Created by Aditya Raj - adityaraj94505@gmail.com <br>
-GitHub: [https://github.com/yourusername](https://github.com/devadityaraj) <br>
+Created by:<br>
+Aditya Raj - adityaraj94505@gmail.com <br>
+GitHub: [https://github.com/devadityaraj](https://github.com/devadityaraj) <br>
 LinkedIN: [https://www.linkedin.com/in/devadityaraj/](https://www.linkedin.com/in/devadityaraj) <br>
 
 ✨ Thank you for checking out ADIPIX Image Viewer! Enjoy your pixel-perfect experience. ✨
