@@ -5,7 +5,8 @@ import cv2
 import time
 import os
 
-CAPTURES_DIR = "captures"
+CAPTURES_DIR = os.path.join(os.path.expanduser("~"), "Pictures", "Adipix")
+os.makedirs(CAPTURES_DIR, exist_ok=True)
 
 def save_adipix(img, path):
     img = img.convert('RGB')

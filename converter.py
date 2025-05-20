@@ -4,7 +4,7 @@ from PIL import Image
 import os
 
 def save_adipix(img, path):
-    img = img.convert('RGB')
+    img = img.convert('RGB') 
     width, height = img.size
     pixels = list(img.getdata())
 
@@ -25,7 +25,7 @@ def convert_image():
     try:
         img = Image.open(file_path)
 
-        save_dir = "captures"
+        save_dir = os.path.join(os.path.expanduser("~"), "Pictures", "Adipix")
         os.makedirs(save_dir, exist_ok=True)
 
         base_name = os.path.basename(file_path)
