@@ -27,49 +27,15 @@ Pixels follow as raw RGB triplets.
 
 ## 🛠️ Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/devadityaraj/adipix.git
-   cd adipix
-   
-2. (Optional) Create and activate a virtual environment:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-
----
+1. Download the Latest Version from Releases!
+2. Install The Setup and keep the default settings.
 
 ## ▶️ Usage
 
-1. Run with:
-
-   ```bash
-   python main.py
-
-2. The app will open GUI interface to Directly Capture in adipix via camera or covert existing files (jpg/png) or view the adipix files.
-
-Select any file to open and view it.
-
----
-
-## 🧩 Project Structure
-
-
-    adipix/
-    ├── captures/           # Folder to store your .adipix image files
-    ├── converter.py        # Converts images to .adipix image file
-    ├── camera.py           # Directly Captures image in .adipix format
-    ├── main.py             # Main app file - launches the GUI
-    ├── viewer.py           # Image loading & viewing logic
-    ├── requirements.txt    # Python dependencies
-    └── README.md           # You are here!
+1. Open ADIPIX Camera to directly capture in .adipix
+2. Open ADIPIX Converter to convert existing jpg/png into adipix format
+3. Open ADIPIX inbuilt browser (beta) to explore adipix files.
+4. Double Click any adipix file to execute, it will automatically execute via ADIPIX Preview Play
 
 ---
 
