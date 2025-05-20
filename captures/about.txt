@@ -1,3 +1,4 @@
-This folder will save all the .adipix files that are converted or captured!
+In Recent update, the folder has been moved to Pictures/Adipix
+Download setup from Releases and enjoy!
 https://github.com/devadityaraj
 https://www.linkedin.com/in/devadityaraj/
