@@ -1,17 +1,17 @@
-# 🖼️ ADIPIX - All New Image Format
+# ADIPIX - All New Image Format
 
 **Bored with JPG, PNG? Try: `adipix` — a custom raw RGB image format.**
 
 ---
 
-## 🚀 About
+## About
 
 ADIPIX is a new Image Format that stores RAW RGB Values as `.adipix` format.
 This repo contains python code in order to create, capture, convert existing jpg/png files into adipix format.
 
 ---
 
-## 📸 What is `.adipix`?
+## What is `.adipix`?
 
 `.adipix` is a custom image format created to store raw RGB pixel data efficiently, with a minimal 12-byte header:
 
@@ -25,12 +25,12 @@ Pixels follow as raw RGB triplets.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. Download the Latest Version from Releases!
 2. Install The Setup and keep the default settings.
 
-## ▶️ Usage
+## Usage
 
 1. Open ADIPIX Camera to directly capture in .adipix
 2. Open ADIPIX Converter to convert existing jpg/png into adipix format
@@ -39,16 +39,14 @@ Pixels follow as raw RGB triplets.
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
 
 ---
 
-## 💬 Contact
+## Contact
 Created by:<br>
 Aditya Raj - adityaraj94505@gmail.com <br>
 GitHub: [https://github.com/devadityaraj](https://github.com/devadityaraj) <br>
 LinkedIN: [https://www.linkedin.com/in/devadityaraj/](https://www.linkedin.com/in/devadityaraj) <br>
-
-✨ Thank you for checking out ADIPIX Image Viewer! Enjoy your pixel-perfect experience. ✨
