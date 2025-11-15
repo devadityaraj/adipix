@@ -5,9 +5,9 @@ import os
 import sys
 
 TOOLS = {
-    "📸 Open Camera & Capture (.adipix)": "camera.py",
-    "🖼️ Convert PNG/JPG to .adipix": "converter.py",
-    "👁️ View .adipix Images": "viewer.py"
+    "Open Camera & Capture (.adipix)": "camera.py",
+    "Convert PNG/JPG to .adipix": "converter.py",
+    "View .adipix Images": "viewer.py"
 }
 
 def launch_tool(script_name):
@@ -47,3 +47,4 @@ def create_main_ui():
 
 if __name__ == "__main__":
     create_main_ui()
+
